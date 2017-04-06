@@ -3,6 +3,6 @@
 
 Jason Rangel and Miriam Lozneanu 
 
-
+There are 9 nodes. 
 
 Validaiton Results 
