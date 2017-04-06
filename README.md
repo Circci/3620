@@ -3,6 +3,7 @@
 
 Jason Rangel and Miriam Lozneanu 
 
-There are 9 nodes. 
+Topology viewer:
+There are 7 nodes. 
 
 Validaiton Results 
